@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@ice/stark-data": "^0.1.2",
+    "@mfe-common/auth": "c:\\Users\\zhong\\workspace\\mfe-common-lib\\packages\\auth",
+    "@mfe-common/http": "c:\\Users\\zhong\\workspace\\mfe-common-lib\\packages\\http",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
@@ -10,6 +13,8 @@
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
+    "axios": "^0.20.0",
+    "qiankun": "^2.0.24",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
